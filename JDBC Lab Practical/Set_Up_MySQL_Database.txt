@@ -1,0 +1,20 @@
+CREATE DATABASE employee_db;
+
+USE employee_db;
+
+CREATE TABLE employees (
+ id INT PRIMARY KEY AUTO_INCREMENT,
+ name VARCHAR(100),
+ position VARCHAR(100),
+ salary DECIMAL(10, 2)
+);
+
+
+-- Insert some sample data --
+
+INSERT INTO employees (name, position, salary) VALUES ('John Doe', 'Software
+Engineer', 75000);
+INSERT INTO employees (name, position, salary) VALUES ('Jane Smith', 'HR
+Manager', 65000);
+INSERT INTO employees (name, position, salary) VALUES ('Steve Brown', 'Team
+Lead', 85000);
