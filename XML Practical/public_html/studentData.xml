@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students>
+    <student>
+        <ID>1</ID>
+        <Name>Janith Lakshan</Name>
+        <Mobile>077 5864499</Mobile>
+        <Gender>Male</Gender>
+        <DateOfBirth>2000-05-15</DateOfBirth>
+    </student>
+    
+    <student>
+        <ID>2</ID>
+        <Name>Samith Hewage</Name>
+        <Mobile>071 5698855</Mobile>
+        <Gender>Female</Gender>
+        <DateOfBirth>1999-08-22</DateOfBirth>
+    </student>
+
+    <student>
+        <ID>3</ID>
+        <Name>Manoj James</Name>
+        <Mobile>077 5826699</Mobile>
+        <Gender>Male</Gender>
+        <DateOfBirth>2001-01-30</DateOfBirth>
+    </student>
+</students>
+
+

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<employees>
+    <employee gender="Male" dateOfBirth="1990-04-12">
+        <Name>Lasith Dissanayake</Name>
+        <Address>
+            <No>EMP001</No>
+            <Line1>Main Street</Line1>
+            <Line2>Building A</Line2>
+            <City>Colombo</City>
+        </Address>
+        <Mobile>077 8955696</Mobile>
+        <Position>Software Engineer</Position>
+        <BasicSalary>70000</BasicSalary>
+    </employee>
+
+    <employee gender="Female" dateOfBirth="1992-07-23">
+        <Name>Gayani Sathsarani</Name>
+        <Address>
+            <No>EMP002</No>
+            <Line1>Second Avenue</Line1>
+            <Line2>Apartment 12B</Line2>
+            <City>Kandy</City>
+        </Address>
+        <Mobile>071 5624455</Mobile>
+        <Position>Project Manager</Position>
+        <BasicSalary>85000</BasicSalary>
+    </employee>
+
+    <employee gender="Male" dateOfBirth="1988-11-05">
+        <Name>Mahesh Akmal</Name>
+        <Address>
+            <No>EMP003</No>
+            <Line1>Third Street</Line1>
+            <Line2>Suite 400</Line2>
+            <City>Kurunegala</City>
+        </Address>
+        <Mobile>077 2586644</Mobile>
+        <Position>System Analyst</Position>
+        <BasicSalary>65000</BasicSalary>
+    </employee>
+</employees>
+
